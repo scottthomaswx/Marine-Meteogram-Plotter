@@ -1,4 +1,4 @@
-BUOY/CMAN STATION LISTING - MODIFIED BY KYLE J GILLETT AND SCOTT THOMAS
+  BUOY/CMAN STATION LISTING - MODIFIED BY KYLE J GILLETT AND SCOTT THOMAS
 ------------------------------------------------------------------------
 Entries may be added, deleted, or edited, BUT FORMAT MUST BE MAINTAINED.
 ------------------------------------------------------------------------
