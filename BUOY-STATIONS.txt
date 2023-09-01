@@ -1,4 +1,4 @@
-    BUOY/CMAN STATION LISTING 20160907 - MODIFIED BY KYLE J GILLETT
+BUOY/CMAN STATION LISTING - MODIFIED BY KYLE J GILLETT AND SCOTT THOMAS
 ------------------------------------------------------------------------
 Entries may be added, deleted, or edited, BUT FORMAT MUST BE MAINTAINED.
 ------------------------------------------------------------------------
@@ -211,153 +211,153 @@ ID,LOC,LAT,A,LON,B,TYPE
 18CY3*,    Michigan CITY CR,         41.73, N,    86.91, W, LAND,
 20CM4*,    ST JOSEPH CG,             42.09, N,    86.49, W, LAND,
 ABAN6*,    ALEXANDRIA BAY NY    ,    44.33, N,    75.93, W, LAND,
-AGCM4*,    Algonac,                  42.62, N,    82.53, W, LAND,
-AGMW3*,    Algoma City Marina,       44.61, N,    87.43, W, LAND,
+AGCM4*,    ALGONAC,                  42.62, N,    82.53, W, LAND,
+AGMW3*,    ALGOMA CITY MARINA,       44.61, N,    87.43, W, LAND,
 AMAA2*,    EAST AMATULI ISLAND L,    58.92, N,    151.9, W, LAND,
-APNM4*,    Alpena,                   45.06, N,    83.42, W, LAND,
+APNM4*,    ALPENA,                   45.06, N,    83.42, W, LAND,
 ASBO1*,    ASHTABULA,                41.92,N,     80.8,  W, LAND,
 AUGA2*,    AUGUSTINE ISLAND AK  ,    59.38, N,    153.3, W, LAND,
-ALXN6*,    Alexandria Bay,           44.33, N,    75.93, W, LAND,
+ALXN6*,    ALEXANDRIA BAY,           44.33, N,    75.93, W, LAND,
 BARN6*,    BARCELONA HARBOR,         42.35, N,    79.60, W, LAND,
-BHRI3*,    Burns Harbor,             41.64, N,    87.14, W, LAND,
+BHRI3*,    BURNS HARBOR,             41.64, N,    87.14, W, LAND,
 BLIA2*,    BLIGH REEF LIGHT AK  ,    60.84, N,    146.8, W, LAND,
-BIGM4*,    Big Bay,                  46.83, N,    87.73, W, LAND,
-BSBM4*,    Big Sable Point,          44.06, N,    86.51, W, LAND,
-BUFN6,     Buffalo,                  42.88, N,    78.89, W, LAND,
+BIGM4*,    BIG BAY,                  46.83, N,    87.73, W, LAND,
+BSBM4*,    BIG SABLE POINT,          44.06, N,    86.51, W, LAND,
+BUFN6,     BUFFALO,                  42.88, N,    78.89, W, LAND,
 BURL1*,    SOUTHWEST PASS LA    ,    28.91, N,    89.43, W, LAND,
 BUZM3*,    BUZZARDS BAY MA      ,    41.40, N,    71.03, W, LAND,
 CARO3*,    CAPE ARAGO OR        ,    43.34, N,    124.3, W, LAND,
 CBLO1*,    CONNEAUT BREAKWATER,      41.98, N,    80.56, W, LAND,
-CBRW3*,    Chambers Island,          45.20, N,    87.36, W, LAND,
+CBRW3*,    CHAMBERS ISLAND,          45.20, N,    87.36, W, LAND,
 CDRF1*,    CEDAR KEY FL         ,    29.14, N,    83.03, W, LAND,
-CHII2*,    Harrison Dever Crib,      41.92, N,    87.57, W, LAND,
+CHII2*,    HARRISON DEVER CRIB,      41.92, N,    87.57, W, LAND,
 CHLV2*,    CHESAPEAKE LIGHT VA  ,    36.91, N,    75.71, W, LAND,
 CLKN7*,    CAPE LOOKOUT NC      ,    34.62, N,    76.53, W, LAND,
-CLSM4*,    St Clair Shores,          42.47, N,    82.88, W, LAND,
+CLSM4*,    ST CLAIR SHORES,          42.47, N,    82.88, W, LAND,
 CMPO1*,    CAMP PERRY,               41.55, N,    83.02, W, LAND,
-CMTI2*,    Calumet Harbor,           41.73, N,    87.54, W, LAND,
-CNDO1*,    Cleveland,                41.54, N,    81.64, W, LAND,
-CNII2*,    Northerly Isle,           41.86, N,    87.61, W, LAND,
-CWCI*,     Caribou Island,           47.33, N,    85.83, W, LAND,
-CYGM4*,    Cheboygan Marina,         45.66, N,    84.46, W, LAND,
+CMTI2*,    CALUMET HARBOR,           41.73, N,    87.54, W, LAND,
+CNDO1*,    CLEVELAND,                41.54, N,    81.64, W, LAND,
+CNII2*,    NORTHERLY ISLE,           41.86, N,    87.61, W, LAND,
+CWCI*,     CARIBOU ISLAND,           47.33, N,    85.83, W, LAND,
+CYGM4*,    CHEBOYGAN MARINA,         45.66, N,    84.46, W, LAND,
 DBLN6*,    DUNKIRK NY           ,    42.49, N,    79.35, W, LAND,
 DESW1*,    DESTRUCTION ISLAND WA,    47.68, N,    124.4, W, LAND,
 DISW3*,    DEVILS ISLAND WI     ,    47.08, N,    90.73, W, LAND,
 DPIA1*,    DAUPHIN ISLAND AL    ,    30.25, N,    88.07, W, LAND,
-DRFA2*,    DRIFT RIVER TERMINAL ,   60.55, N,    152.1, W, LAND,
-DTLM4*,    De Tour Village,          45.99, N,    83.90, W, LAND,
-DULM5*,    Duluth,                   46.78, N,    92.09, W, LAND,
-EREP1*,    Erie,                     42.17, N,    80.10, W, LAND,
-FAIO1*,    Fairport,                 41.76, N,    81.28, W, LAND,
+DRFA2*,    DRIFT RIVER TERMINAL ,    60.55, N,    152.1, W, LAND,
+DTLM4*,    DE TOUR VILLAGE,          45.99, N,    83.90, W, LAND,
+DULM5*,    DULUTH,                   46.78, N,    92.09, W, LAND,
+EREP1*,    ERIE,                     42.17, N,    80.10, W, LAND,
+FAIO1*,    FAIRPORT,                 41.76, N,    81.28, W, LAND,
 FBIS1*,    FOLLY ISLAND SC      ,    32.69, N,    79.89, W, LAND,
 FFIA2*,    FIVE FINGERS AK      ,    57.27, N,    133.6, W, LAND,
 FILA2*,    FLAT ISLAND LIGHT    ,    59.33, N,    152.0, W, LAND,
-FPTM4*,    Fairport,45.61,N,86.66,W,LAND
-FSTI2*,    Foster Ave,41.98,N,87.65,W,LAND
-FTGM4*,    Fort Gratiot,43,N,82.42,W,LAND
+FPTM4*,    FAIRPORT,                 45.61, N,    86.66, W, LAND,
+FSTI2*,    FOSTER AVE,               41.98, N,    87.65, W, LAND,
+FTGM4*,    FORT GRATIOT,             43.00, N,    82.42, W, LAND,
 FWYF1*,    FOWEY ROCK FL        ,    25.59, N,    80.10, W, LAND,
-GBLW3*,    GREEN BAY ENTERANCE,44.65,N,87.9,W,LAND
-GBWW3*,    Green Bay West,44.54,N,88,W,LAND
-GDMM5*,Grand Marias,47.75,N,90.34,W,LAND
-GELO1*,GENEVA ON THE LAKE,41.86,N,80.98,W,LAND
-GRMM4*,GRAND MARIAS NWSCR,46.68,N,85.97,W,LAND
-GSLM4*,GRAVELLY SHOAL LIGHT,44.02,N,83.54,W,LAND
-GTLM4*,GRAND TRAVERSE LIGHT,45.21,N,85.55,W,LAND
-GTRM4*,SUPERIOR GRAND TRAVERSE,47.18,N,88.24,W,LAND
-HHLO1*,HURON HARBOR LIGHT,41.4,N,82.55,W,LAND
-HLNM4*,Holland,42.77,N,86.21,W,LAND
-HRBM4*,Harbor Beach,43.85,N,82.64,W,LAND
+GBLW3*,    GREEN BAY ENTERANCE,      44.65, N,    87.90, W, LAND,
+GBWW3*,    GREEN BAY WEST,           44.54, N,    88.00, W, LAND,
+GDMM5*,    GRAND MARIAS,             47.75, N,    90.34, W, LAND,
+GELO1*,    GENEVA ON THE LAKE,       41.86, N,    80.98, W, LAND,
+GRMM4*,    GRAND MARIAS NWSCR,       46.68, N,    85.97, W, LAND,
+GSLM4*,    GRAVELLY SHOAL LIGHT,     44.02, N,    83.54, W, LAND,
+GTLM4*,    GRAND TRAVERSE LIGHT,     45.21, N,    85.55, W, LAND,
+GTRM4*,    SUPERIOR GRAND TRAVERSE,  47.18, N,    88.24, W, LAND,
+HHLO1*,    HURON HARBOR LIGHT,       41.40, N,    82.55, W, LAND,
+HLNM4*,    HOLLAND,                  42.77, N,    86.21, W, LAND,
+HRBM4*,    HARBOR BEACH,             43.85, N,    82.64, W, LAND,
 IOSN3*,    ISLE OF SHOALS NH    ,    42.97, N,    70.62, W, LAND,
-JAKI2*,63rd Street,41.78,N,87.57,W,LAND
-KGNA*,Bay of Grand Marias,47.75,N,90.35,W,LAND
-KNSW3*,KENOSHA LIGHT,42.59,N,87.81,W,LAND
-KP53*,MUNISING LAKESHORE,46.42,N,86.65,W,LAND
-KP58*,PORT HOPE,44.02,N,82.8,W,LAND
-KP59*,COPPER HARBOR,47.47,N,87.88,W,LAND
-KWNW3*,Kewaunee MET,44.47,N,87.5,W,LAND
+JAKI2*,    63RD STREET,              41.78, N,    87.57, W, LAND,
+KGNA*,     BAY OF GRAND MARIAS,      47.75, N,    90.35, W, LAND,
+KNSW3*,    KENOSHA LIGHT,            42.59, N,    87.81, W, LAND,
+KP53*,     MUNISING LAKESHORE,       46.42, N,    86.65, W, LAND,
+KP58*,     PORT HOPE,                44.02, N,    82.80, W, LAND,
+KP59*,     COPPER HARBOR,            47.47, N,    87.88, W, LAND,
+KWNW3*,    KEWAUNEE MET,             44.47, N,    87.50, W, LAND,
 KTNF1*,    KEATON BEACH FL      ,    29.82, N,    83.59, W, LAND,
-LDTM4*,Ludington,43.95,N,86.44,W,LAND
+LDTM4*,    LUDINGTON,                43.95, N,    86.44, W, LAND,
 LKWF1*,    LAKEWORTH FL         ,    26.61, N,    80.03, W, LAND,
 LONF1*,    LONG KEY FL          ,    24.84, N,    80.86, W, LAND,
-LORO1*,LORAIN HARBOR,41.48,N,82.2,W,LAND
-LPNM4*,Alpena,45.06,N,83.43,W,LAND
+LORO1*,    LORAIN HARBOR,            41.48, N,    82.20, W, LAND,
+LPNM4*,    ALPENA,                   45.06, N,    83.43, W, LAND.
 LSCM4 ,    LAKE ST. CLAIR       ,    42.47, N,    82.76, W, LAND,
-LTRM4*,Little Rapids,46.49,N,84.3,W,LAND
-MACM4*,Mackinac City,45.78,N,84.72,W,LAND
-MBRM4*,Mouth of the Black River,42.98,N,82.42,W,LAND
-MCGM4*,Marquette,46.55,N,87.38,W,LAND
-MCYI3*,Michigan City,41.73,N,86.91,W,LAND
+LTRM4*,    LITTLE RAPIDS,            46.49, N,    84.30, W, LAND,
+MACM4*,    MACKINAC CITY,            45.78, N,    84.72, W, LAND,
+MBRM4*,    MOUTH OF THE BLACK RIVER, 42.98, N,    82.42, W, LAND,
+MCGM4*,    MARQUETTE,                46.55, N,    87.38, W, LAND,
+MCYI3*,    MICHIGAN CITY,            41.73, N,    86.91, W, LAND,
 MDRM1*,    MT DESERT ROCK ME    ,    43.97, N,    68.13, W, LAND,
-MEEM4*,MANISTEE HARBOR,44.25,N,86.34,W,LAND
+MEEM4*,    MANISTEE HARBOR,          44.25, N,    86.34, W, LAND,
 MISM1*,    MATINICUS ROCK ME    ,    43.78, N,    68.86, W, LAND,
-MKGM4*,Muskegon,43.23,N,86.34,W,LAND
+MKGM4*,    MUSKEGON,                 43.23, N,    86.34, W, LAND,
 MLRF1*,    MOLASSES REEF FL     ,    25.01, N,    80.38, W, LAND,
-MLWW3*,Port of Millwaukee,43.01,N,87.88,W,LAND
-MNMM4*,Menominee,45.1,N,87.59,W,LAND
-MRHO1*,Marblehead,41.54,N,82.73,W,LAND
+MLWW3*,    PORT OF MILWAUKEE,        43.01, N,    87.88, W, LAND,
+MNMM4*,    MENOMINEE,                45.10, N,    87.59, W, LAND,
+MRHO1*,    MARBLEHEAD,               41.54, N,    82.73, W, LAND,
 MRKA2*,    MIDDLE ROCK LIGHT AK ,    61.08, N,    146.6, W, LAND,
-NABM4*,NAUBINWAY,46.09,N,85.44,W,LAND
-NIAN6*,Niagara Intake,43.08,N,79.01,W,LAND
-NPDW3*,NORTHPORT PIER,45.29,N,86.98,W,LAND
-NREP1*,NORTHEAST MARINA,42.26,N,79.79,W,LAND
+NABM4*,    NAUBINWAY,                46.09, N,    85.44, W, LAND,
+NIAN6*,    NIAGARA INTAKE,           43.08, N,    79.01, W, LAND,
+NPDW3*,    NORTHPORT PIER,           45.29, N,    86.98, W, LAND,
+NREP1*,    NORTHEAST MARINA,         42.26, N,    79.79, W, LAND,
 NWPO3*,    NEWPORT OR           ,    44.61, N,    124.0, W, LAND,
-OBGN6*,Ogdensburg,44.7,N,75.49,W,LAND
-OKSI2*,Oak Street,41.91,N,87.62,W,LAND
-OLCN6*,OLCOTT HARBOR,43.34,N,78.72,W,LAND
-OSGN6*,Oswego,43.46,N,76.51,W,LAND
-OTNM4*,ONTONAGON,46.87,N,89.33,W,LAND
-PBWM4*,Port Huron Blue Water Bridge,43,N,82.42,W,LAND
-PCLM4*,PORTAGE CANAL,47.28,N,88.53,W,LAND
+OBGN6*,    OGDENSBURG,               44.70, N,    75.49, W, LAND,
+OKSI2*,    OAK STREET,               41.91, N,    87.62, W, LAND,
+OLCN6*,    OLCOTT HARBOR,            43.34, N,    78.72, W, LAND,
+OSGN6*,    OSWEGO,                   43.46, N,    76.51, W, LAND,
+OTNM4*,    ONTONAGON,                46.87, N,    89.33, W, LAND,
+PBWM4*,    PT HURON BLUE WTR BRDG,   43.00, N,    82.42, W, LAND,
+PCLM4*,    PORTAGE CANAL,            47.28, N,    88.53, W, LAND,
 PILA2*,    PILOT ROCK AK        ,    59.74, N,    149.4, W, LAND,
 PILM4*,    PASSAGE ISLAND MI    ,    48.22, N,    88.37, W, LAND,
 PLSF1*,    POLASKI SHOALS FL    ,    24.69, N,    82.77, W, LAND,
-PNLM4*,Port Inland,45.97,N,85.87,W,LAND
+PNLM4*,    PORT INLAND,              45.97, N,    85.87, W, LAND,
 POTA2*,    POTATO POINT AK      ,    61.06, N,    146.7, W, LAND,
-PRIM4*,PRESQUE ISLE,45.36,N,83.49,W,LAND
-PSCM4*,PORT SANILAC,43.42,N,82.54,W,LAND
-PSTN6,Sturgeon Point,42.69,N,79.05,W,LAND
+PRIM4*,    PRESQUE ISLE,             45.36, N,    83.49, W, LAND,
+PSCM4*,    PORT SANILAC,             43.42, N,    82.54, W, LAND,
+PSTN6,     STURGEON POINT,           42.69, N,    79.05, W, LAND,
 PTAC1*,    POINT ARENA CA       ,    38.96, N,    123.7, W, LAND,
 PTAT2*,    PORT ARANSAS TX      ,    27.83, N,    97.05, W, LAND,
 PTGC1*,    POINT ARGUELLO CA    ,    34.58, N,    120.6, W, LAND,
-PTIM4*,Point Iroquois,46.49,N,84.63,W,LAND
-PWAW3*,PORT WASHINGTON,43.39,N,87.87,W,LAND
-RCKM4*,Rock Cut,46.26,N,84.19,W,LAND
-RCRN6*,Rochester,43.27,N,77.63,W,LAND
+PTIM4*,    POINT IROQUOIS,           46.49, N,    84.63, W, LAND,
+PWAW3*,    PORT WASHINGTON,          43.39, N,    87.87, W, LAND,
+RCKM4*,    ROCK CUT,                 46.26, N,    84.19, W, LAND,
+RCRN6*,    ROCHESTER,                43.27, N,    77.63, W, LAND,
 ROAM4*,    ROCK OF AGES MI      ,    47.87, N,    89.31, W, LAND,
-RPRN6*,ROCHESTER CG,43.26,N,77.6,W,LAND
+RPRN6*,    ROCHESTER CG,             43.26, N,    77.60, W, LAND,
 SANF1*,    SAND KEY FL          ,    24.45, N,    81.88, W, LAND,
 SAUF1*,    ST. AUGUSTINE FL     ,    29.86, N,    81.27, W, LAND,
 SBIO1*,    SOUTH BASS ISLAND OH ,    41.63, N,    82.84, W, LAND,
-SBLM4*,SAGINAW BAY LIGHT,43.81,N,83.72,W,LAND
+SBLM4*,    SAGINAW BAY LIGHT,        43.81, N,    83.72, W, LAND,
 SGNW3*,    SHEBOYGAN WI         ,    43.75, N,    87.69, W, LAND,
 SGOF1*,    ST. GEORGE OFFSHORE  ,    29.41, N,    84.86, W, LAND,
 SISW1*,    SMITH ISLAND WA      ,    48.32, N,    122.8, W, LAND,
-SJOM4*,ST JOSEPH,42.1,N,86.49,W,LAND
-SLVM5*,Silver Bay,47.28,N,91.27,N,LAND
+SJOM4*,    ST JOSEPH,                42.10, N,    86.49, W, LAND,
+SLVM5*,    SILVER BAY,               47.28, N,    91.27, N, LAND,
 SMKF1*,    SOMBRERO KEY FL      ,    24.63, N,    81.11, W, LAND,
-SPTM4*,STURGEON POINT NWSCR,44.71,N,83.27,W,LAND
+SPTM4*,    STURGEON POINT NWSCR,     44.71, N,    83.27, W, LAND,
 SPGF1*,    SETTLEMENT PT GBI    ,    26.70, N,    78.99, W, LAND,
-SRLM4*,Spectacle Reef,45.77,N,84.14,W,LAND
+SRLM4*,    SPECTACLE REEF,           45.77, N,    84.14, W, LAND,
 SRST2*,    SABINE TX            ,    29.68, N,    94.03, W, LAND,
 STDM4*,    STANNARD ROCK MI     ,    47.18, N,    87.23, W, LAND,
 SUPN6*,    SUPERIOR SHOALS NY   ,    44.47, N,    75.80, W, LAND,
-SVNM4*,South Haven,42.4,N,86.29,W,LAND
-SWPM4*,Southwest Pier,46.5,N,84.37,W,LAND
-SXHW3*,SAXON HARBOR,46.56,N,90.43,W,LAND
-TAWM4*,TAWAS POINT,44.25,N,83.45,W,LAND
-TBIM4*,Thunder Bay Island,45.04,N,83.19,W,LAND
-SYWW3*,YACHT WORKS SISTER BAY,45.2,N,87.12,W,LAND
+SVNM4*,    SOUTH HAVEN,              42.40, N,    86.29, W, LAND,
+SWPM4*,    SOUTHWEST PIER,           46.50, N,    84.37, W, LAND,
+SXHW3*,    SAXON HARBOR,             46.56, N,    90.43, W, LAND,
+TAWM4*,    TAWAS POINT,              44.25, N,    83.45, W, LAND,
+TBIM4*,    THUNDER BAY ISLAND,       45.04, N,    83.19, W, LAND,
+SYWW3*,    YACHT WORKS SISTER BAY,   45.20, N,    87.12, W, LAND,
 THIN6*,    THOUSAND ISL. NY     ,    44.30, N,    75.98, W, LAND,
-THLO1*,Toledo Light 2,41.83,N,83.19,W,LAND
-THRO1*,Toledo,41.69,N,83.47,W,LAND
+THLO1*,    TOLEDO LIGHT 2,           41.83, N,    83.19, W, LAND,
+THRO1*,    TOLEDO,                   41.69, N,    83.47, W, LAND,
 TPLM2*,    THOMAS POINT MD      ,    38.90, N,    76.44, W, LAND,
 TTIW1*,    TATOOSH ISLAND WA    ,    48.39, N,    124.7, W, LAND,
-TWC01*,Toledo Crib,41.7,N,83.26,W,LAND
+TWC01*,    TOLEDO CRIB,              41.70, N,    83.26, W, LAND,
 VENF1*,    VENICE FL            ,    27.07, N,    82.45, W, LAND,
-VRMO1*,VERMILLION RIVER,41.43,N,82.36,W,LAND
-WCRP1*,WALNUT CREEK MARINA,42.08,N,80.24,W,LAND
-WFPM4*,WHITEFISH POINT,46.76,N,84.97,W,LAND
-WHRI2*,WAUKEGAN HARBOR,42.36,N,87.81,W,LAND
+VRMO1*,    VERMILLION RIVER,         41.43, N,    82.36, W, LAND,
+WCRP1*,    WALNUT CREEK MARINA,      42.08, N,    80.24, W, LAND,
+WFPM4*,    WHITEFISH POINT,          46.76, N,    84.97, W, LAND,
+WHRI2*,    WAUKEGAN HARBOR,          42.36, N,    87.81, W, LAND,
 WPOW1*,    WEST POINT WA        ,    47.66, N,    122.4, W, LAND,
-WSLM4*,White Shoal Light,45.84,N,85.14,W,LAND
-YGNN6*,NIAGARA CG STATION,43.26,N,79.06,W,LAND
+WSLM4*,    WHITE SHOAL LIGHT,        45.84, N,    85.14, W, LAND,
+YGNN6*,    NIAGARA CG STATION,       43.26, N,    79.06, W, LAND,
