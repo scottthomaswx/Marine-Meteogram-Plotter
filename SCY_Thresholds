@@ -1,0 +1,17 @@
+Note: Small Craft Advisory Thresholds In The Plot Are Calibrated To Great Lakes Levels 
+
+Thresholds Can Be Adjusted If The User Desires In Dataframe Query
+
+Thresholds By Region:
+
+Eastern - Sustained winds or frequent gusts ranging between 25 and 33 knots(except 20 to 25 knots, lower threshold area dependent, to 33 knots for lakes, harbors, bays, etc.) and/or seas or waves four (4) to seven (7) feet and greater, area dependent (four (4) feet on the Chesapeake Bay).
+
+Central - Sustained winds or frequent gusts (on the Great Lakes) between 22 and 33 knots inclusive, and/or seas or waves greater than four (4) feet.
+
+Southern - Sustained winds of 20 to 33 knots, and/or forecast seas seven (7) feet or greater that are expected for more than two (2) hours.
+
+Western - Sustained winds of 21 to 33 knots, or frequent gusts, and/or wave heights exceeding 10 feet (or wave steepness values exceeding local thresholds).
+
+Alaska - Sustained winds or frequent gusts of 23 to 33 knots. A small craft advisory for rough seas may be issued for sea/wave conditions deemed locally significant, based on user needs, and should be no lower than eight (8) feet.
+
+Pacific - Sustained winds 25 to 33 knots and/or seas 10 feet or greater; except in Guam and the Northern Marianas Islands where it is sustained winds or frequent gusts of 22 to 33 knots and/or seas of 10 feet or greater, and in American Samoa where it is sustained winds of 20 to 33 knots and/or seas of eight (8) feet or greater.
