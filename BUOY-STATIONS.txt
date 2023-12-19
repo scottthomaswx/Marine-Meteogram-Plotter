@@ -150,6 +150,7 @@ ID,LOC,LAT,A,LON,B,TYPE
 45209*,    SARNIA,                   43.13, N,    82.39, W, BUOY,
 45210*,    M LK MICHIGAN,            44.06, N,    87.05, W, BUOY,
 45211*,    GRAND ISLAND N,           46.97, N,    86.57, W, BUOY,
+45214*,    S MI SPOTTER,             42.67, N,    87.03, W, BUOY,
 46001*,    GULF OF ALASKA,           56.30, N,    148.0, W, BUOY,
 46002*,    W OREGON,                 42.57, N,    130.4, W, BUOY,
 46005*,    W ASTORIA,                46.01, N,    130.9, W, BUOY,
